@@ -1,0 +1,8 @@
+-- create an database and table 
+-- create an table with constarints like not null,default, primary, auto increment, foreign key, unique
+-- insert the data into the table
+-- update the table with some values
+-- delete the columns don't needed any more
+-- drop the database and table and constraints like foreign key and indexes
+-- alter the existing table and add new column // alter the existing column and change the constraints // alter the column position
+-- creating indexs
